@@ -1,7 +1,7 @@
 # Analisis Transisi Energi Hijau 2025 di Indonesia
 Halo Eco techno leaders!👋<br>
-Tahukah kamu bahwa Indonesia punya target <strong>23%</strong> energi terbarukan di <strong>2025</strong> sesuai Peraturan Presiden No. 5 Tahun 2006, namun nyata nya, berdasarkan data Kementerian ESDM, realisasi bauran Energi Baru dan Terbarukan (EBT) di 2023 baru mencapai <strong>12%</strong>, dan hingga akhir 2024 tercapai 14,68%. Dengan kenaikan hanya 2,68% antara tahun 2023 ke 2024, bila berjalan dengan pace yang sama, artinya di akhir 2025 hanya akan tercapai di kisaran 17-18 %.  
-Saat ini kita tengah berada pada akhir Q2 2025, tersisa 6 bulan lagi di tahun ini, dengan target yang masih sejauh itu, kita perlu mengusahakan lebih keras agar transisi energi hijau bisa terealisasi sesuai target kita yaitu 23%.  
+Tahukah kamu bahwa Indonesia punya target 23% energi terbarukan di 2025 sesuai Peraturan Presiden No. 5 Tahun 2006, namun pada kenyataannya berdasarkan data Kementerian ESDM realisasi bauran Energi Baru dan Terbarukan (EBT) di 2023 baru mencapai <strong>12%</strong>, dan hingga akhir 2024 hanya tercapai 14,68%. Dengan kenaikan hanya 2,68% antara tahun 2023 ke 2024, bila berjalan dengan pace yang sama, artinya di akhir 2025 hanya akan tercapai di kisaran 17-18 %.  
+Saat ini, kita tengah berada pada akhir Q2 2025, yang berarti hanya tersisa 6 bulan lagi di tahun ini. Dengan target yang masih sejauh itu, kita perlu mengusahakan lebih keras agar transisi energi hijau bisa terealisasi sesuai target kita yaitu 23%.  
 
 ---
 Sebagai langkah awal untuk berkontribusi, kami mencoba untuk menganalisa problem-problem yang ada dalam tiga topik, yaitu :
