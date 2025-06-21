@@ -1,0 +1,31 @@
+Nama_Perusahaan,Emisi_2024,Klaim_Hijau,Sektor,Lokasi
+PT_Textilindo,62.5,ya,Tekstil,Jawa Barat
+PT_Semindo,45.8,tidak,Semen,Jawa Tengah
+PT_EnergiJaya,78.2,ya,Energi,Banten
+PT_Pulpindo,55,ya,Kertas,Sumatera Utara
+PT_AgroMakmur,42.3,tidak,Agribisnis,Jawa Timur
+PT_BajaSentosa,68.7,ya,Manufaktur,Jawa Barat
+PT_KimiaFarindo,49.1,tidak,Kimia,Banten
+PT_MiningCo,82.4,ya,Tambang,Kalimantan Timur
+PT_PetroJaya,60.9,tidak,Petrokimia,Jawa Timur
+PT_SinarLogam,53.6,ya,Logam,Jawa Tengah
+PT_IndoPlastik,47.2,tidak,Plastik,Jakarta
+PT_BumiEnergi,75.3,ya,Energi,Sumatera Selatan
+PT_TextilMakmur,64.8,ya,Tekstil,Jawa Barat
+PT_SemenBerkah,43.5,tidak,Semen,Jawa Tengah
+PT_KertasJaya,58.9,ya,Kertas,Riau
+PT_AgroSentosa,41.7,tidak,Agribisnis,Lampung
+PT_BajaIndo,70.2,ya,Manufaktur,Banten
+PT_KimiaJaya,48.4,tidak,Kimia,Jawa Timur
+PT_TambangMakmur,80.6,ya,Tambang,Kalimantan Selatan
+PT_PetroMakmur,63.1,tidak,Petrokimia,Jakarta
+PT_LogamBerkah,54.3,ya,Logam,Jawa Barat
+PT_PlastikJaya,46.9,tidak,Plastik,Jawa Tengah
+PT_EnergiMakmur,77.8,ya,Energi,Sumatera Selatan
+PT_TextilBerkah,66.4,ya,Tekstil,Banten
+PT_SemenJaya,44.2,tidak,Semen,Jawa Timur
+PT_KertasMakmur,57.5,ya,Kertas,Sumatera Utara
+PT_AgroBerkah,40.8,tidak,Agribisnis,Jawa Barat
+PT_BajaMakmur,72.1,ya,Manufaktur,Jawa Tengah
+PT_KimiaMakmur,50.3,tidak,Kimia,Banten
+PT_TambangJaya,85.7,ya,Tambang,Kalimantan Timur
